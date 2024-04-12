@@ -5,6 +5,8 @@
 #### By *Brian Kemboi*
 
 ## Description
+Quotes Generator:
+
 This is a simple and easy to use web application that generates random quotes and displays them on the screen. Built using HTML, CSS, and JavaScript, the application uses an API to fetch quotes from a database and display them in an attractive and user-friendly interface.
 
 ## Installation
