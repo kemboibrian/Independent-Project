@@ -18,7 +18,7 @@ Git
 Git clone git@github.com:kemboibrian/Independent-Project.git
 
 # Live Link
-[Git](git@github.com:kemboibrian/Independent-Project.git)
+[Git](https://github.com/kemboibrian/Independent-Project)
 
 ## Technologies used
 JavaScript
