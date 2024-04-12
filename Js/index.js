@@ -12,7 +12,7 @@ function generateQuote() {
         .then(result => {
             randomquote.textContent = result.content;
             quoteAuthor.textContent = result.author;
-            updateLikeButton(); // Update like button when a new quote is generated
+            updateLikeButton(); // Update like button when a new quote is generated such that it does not display the quote as liked
         });
     
     // Remove the 'liked' class from the like button
