@@ -3,11 +3,6 @@
 
 #### Date, 2024/04/12
 
-# js-code-challenge2
-
-#### Date, 2024/04/11
-
-
 #### By *Brian Kemboi*
 
 ## Description
