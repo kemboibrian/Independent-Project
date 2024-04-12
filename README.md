@@ -22,7 +22,7 @@ Git
 Git clone git@github.com:kemboibrian/Independent-Project.git
 
 # Live Link
-[Git](https://github.com/kemboibrian/Independent-Project)
+[Git](https://kemboibrian.github.io/Independent-Project/)
 
 
 ## Technologies used
