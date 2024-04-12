@@ -12,7 +12,11 @@ function generateQuote() {
         .then(result => {
             randomquote.textContent = result.content;
             quoteAuthor.textContent = result.author;
+            updateLikeButton(); // Update like button when a new quote is generated
         });
+    
+    // Remove the 'liked' class from the like button
+    likeButton.classList.remove('liked');
 }
 
 generatequoteButton.addEventListener("click", generateQuote);
@@ -41,6 +45,8 @@ function likeQuote() {
         likeButton.classList.add('liked');
         // Additional logic for liking a quote
         console.log("Quote liked");
+        const quoteText = randomquote.textContent;
+        alert("You liked the quote: " + quoteText); // Alert when a quote is liked
     }
 }
 
