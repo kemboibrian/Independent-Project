@@ -35,7 +35,7 @@ copyquote.addEventListener("click", function () {
     alert("Quote copied to clipboard.");
 });
 
-// Function to handle liking a quote
+// Function for  liking a quote
 function likeQuote() {
     if (likeButton.classList.contains('liked')) {
         likeButton.classList.remove('liked');
@@ -46,7 +46,7 @@ function likeQuote() {
         // Additional logic for liking a quote
         console.log("Quote liked");
         const quoteText = randomquote.textContent;
-        alert("You liked the quote: " + quoteText); // Alert when a quote is liked
+        alert("You liked the quote: " + quoteText); // display an alert when a quote is liked
     }
 }
 
