@@ -15,12 +15,10 @@ Git
 
 
 ### Installation instruction
-```
-Git clone git@github.com:kemboibrian/js-code-challenge.git
-```
+Git clone git@github.com:kemboibrian/Independent-Project.git
 
 # Live Link
-[Git]
+[Git](git@github.com:kemboibrian/Independent-Project.git)
 
 ## Technologies used
 JavaScript
