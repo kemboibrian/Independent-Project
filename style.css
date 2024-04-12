@@ -22,6 +22,7 @@
     padding: 50px 50px 20px 50px;
     border-radius: 20px;
     max-width: 500px;
+    position: relative;
   }
   
   #quote {
@@ -51,7 +52,7 @@
   }
   
   #copyquote {
-    margin-right: 250px;
+    margin-right: 10px; 
   }
   
   h1 {
@@ -75,9 +76,12 @@
     color: black;
     font-size: 16px;
     transition: color 0.3s ease;
+    position: absolute; 
+    bottom: 20px;
+    right: 20px; 
   }
   
-  /* Style for the liked button */
+  
   #likeButton.liked {
     color: red;
   }
