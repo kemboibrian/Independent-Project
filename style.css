@@ -1,0 +1,84 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #5372F0;
+  }
+  
+  .container {
+    margin-top: 200px;
+  }
+  
+  .content {
+    background-color: white;
+    margin-top: 50px;
+    border: 2px solid;
+    padding: 50px 50px 20px 50px;
+    border-radius: 20px;
+    max-width: 500px;
+  }
+  
+  #quote {
+    font-size: 25px;
+  }
+  
+  #breaker {
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 12px 20px;
+    border-radius: 20px;
+    border: none;
+    background: #5372F0;
+    color: white;
+    cursor: pointer;
+  }
+  
+  #author {
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 300px;
+    margin-top: 10px;
+  }
+  
+  #copyquote {
+    margin-right: 250px;
+  }
+  
+  h1 {
+    color: black;
+  }
+  
+  #randomquote {
+    font-size: 25px;
+    text-align: center;
+  }
+  
+  button:hover,
+  button.active {
+    color: black;
+  }
+  
+  #likeButton {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: black;
+    font-size: 16px;
+    transition: color 0.3s ease;
+  }
+  
+  /* Style for the liked button */
+  #likeButton.liked {
+    color: red;
+  }
+  

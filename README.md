@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Independent-Project
 
 #### Date, 2024/04/12
+=======
+# js-code-challenge2
+
+#### Date, 2024/04/11
+>>>>>>> 89dbefd (update files)
 
 #### By *Brian Kemboi*
 
@@ -17,10 +23,19 @@ Git
 
 
 ### Installation instruction
+<<<<<<< HEAD
 Git clone git@github.com:kemboibrian/Independent-Project.git
 
 # Live Link
 [Git](https://github.com/kemboibrian/Independent-Project)
+=======
+```
+Git clone git@github.com:kemboibrian/Independent-Project.git
+```
+
+# Live Link
+[Git]
+>>>>>>> 89dbefd (update files)
 
 ## Technologies used
 JavaScript
@@ -34,4 +49,8 @@ github.com/kemboibrian
 
 ### License
 The content of this site is licensed under the MIT license
+<<<<<<< HEAD
 Copyright (c) 2024 kemboibrian
+=======
+Copyright (c) 2024 kemboibrian
+>>>>>>> 89dbefd (update files)
